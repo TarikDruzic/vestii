@@ -100,7 +100,7 @@ header {
     }
 
     .content {
-        font-size: 24px;
+        font-size: 36px;
     }
     table{
         margin: auto;
@@ -109,6 +109,7 @@ header {
     }
     .historija{
         margin:auto;
+        font-size: 2em;
     }
     .navbar{
         margin: auto;
